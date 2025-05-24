@@ -1,0 +1,166 @@
+/* Reset & font */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f5f8fa;
+  color: #333;
+  line-height: 1.6;
+}
+
+/* Container */
+.container {
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 20px 25px;
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.1);
+}
+
+/* Header */
+header {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+header h1 {
+  font-size: 2.8rem;
+  color: #2c3e50;
+  font-weight: 700;
+  margin-bottom: 8px;
+  letter-spacing: 1px;
+}
+
+.championship-meta {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+  flex-wrap: wrap;
+  font-weight: 600;
+  color: #555;
+}
+
+.championship-meta .date,
+.championship-meta .points {
+  background: #f0f4f8;
+  padding: 6px 14px;
+  border-radius: 18px;
+  font-size: 0.9rem;
+  color: #34495e;
+}
+
+/* Wrapper */
+.wrapper {
+  width: 100%;
+}
+
+/* Ranking table */
+.ranking-container {
+  overflow-x: auto;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+  border-radius: 10px;
+}
+
+.ranking-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 1rem;
+  min-width: 600px;
+}
+
+.ranking-table thead {
+  background: linear-gradient(90deg, #3498db, #2980b9);
+  color: white;
+}
+
+.ranking-table th,
+.ranking-table td {
+  padding: 14px 20px;
+  text-align: left;
+  border-bottom: 1px solid #ecf0f1;
+  white-space: nowrap;
+}
+
+.ranking-table tbody tr:hover {
+  background-color: #d6e9ff;
+  transition: background-color 0.3s ease;
+}
+
+.rank {
+  font-weight: 700;
+  color: #2980b9;
+}
+
+.team {
+  font-weight: 600;
+  color: #2c3e50;
+}
+
+.points {
+  font-weight: 700;
+  color: #27ae60;
+}
+
+.played, .won, .draw, .lost {
+  color: #34495e;
+}
+
+/* Messages */
+.loading,
+.error,
+.not-found,
+.no-matches {
+  text-align: center;
+  padding: 40px 20px;
+  font-size: 1.25rem;
+  font-weight: 600;
+  border-radius: 10px;
+  margin-top: 30px;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.loading {
+  color: #2980b9;
+}
+
+.error {
+  background-color: #ffe6e6;
+  color: #c0392b;
+  border: 1px solid #e74c3c;
+}
+
+.not-found {
+  background-color: #f0f3f4;
+  color: #7f8c8d;
+  border: 1px solid #bdc3c7;
+}
+
+.no-matches {
+  background-color: #ecf0f1;
+  color: #34495e;
+  border: 1px solid #bdc3c7;
+  margin-top: 20px;
+}
+
+/* Responsive */
+@media (max-width: 650px) {
+  .championship-meta {
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .ranking-table {
+    min-width: 100%;
+  }
+
+  .ranking-table th, .ranking-table td {
+    padding: 10px 12px;
+  }
+}
