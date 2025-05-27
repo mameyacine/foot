@@ -1,0 +1,419 @@
+h1 {
+  font-size: 2.8rem;
+  color: #2c3e50;
+  font-weight: 700;
+  margin-bottom: 8px;
+  letter-spacing: 1px;
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f5f8fa;
+  color: #333;
+  line-height: 1.6;
+}
+
+.team-details {
+  padding: 2rem;
+  max-width: 1200px;
+  margin: auto;
+}
+
+.team-logo-large {
+  width: 150px;
+  height: 150px;
+  object-fit: contain;
+  margin: 1rem auto;
+  display: block;
+}
+
+.team-page {
+  display: flex;
+  align-items: flex-start; /* 👈 Evite l'alignement centré */
+  gap: 2rem;
+  margin-top: 2rem;
+}
+/* Sidebar des filtres */
+.team-sidebar {
+  width: 250px;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 1rem;
+  position: sticky;
+  top: 2rem;
+  height: fit-content;
+}
+
+/* Partie droite : les matchs */
+.team-main {
+  flex: 1;
+}
+
+/* Bouton afficher/cacher */
+.toggle-filters {
+  background: none;
+  border: none;
+  font-weight: bold;
+  font-size: 1rem;
+  cursor: pointer;
+  margin-bottom: 1rem;
+  text-transform: uppercase;
+  text-align: left;
+  color: #2c3e50;
+  text-decoration: underline;
+}
+
+.filter-category {
+  margin-top: 1rem;
+}
+
+.filter-header {
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+  font-size: 1rem;
+  text-transform: uppercase;
+  display: flex;
+  justify-content: space-between;
+}
+
+
+
+.filter-title {
+  font-weight: bold;
+  font-size: 1rem;
+  margin: 0;
+}
+
+.match-filters input[type="checkbox"] {
+  margin-right: 0.5rem;
+  transform: scale(1.2);
+}
+.match-filters label:hover {
+  background-color: #f2f2f2;
+  border-radius: 4px;
+  padding: 0.2rem 0.4rem;
+}
+/* Responsive mobile : stacker */
+@media screen and (max-width: 768px) {
+  .team-page {
+    flex-direction: column;
+  }
+
+  .team-sidebar {
+    width: 100%;
+    order: 2;
+  }
+
+  .team-main {
+    order: 1;
+  }
+}
+
+.checkbox-label {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.6rem;
+  margin: 0.5rem 0.5rem;
+  font-size: 0.95rem;
+  cursor: pointer;
+  white-space: nowrap; /* 👈 EMPÊCHE le texte de sauter à la ligne */
+}
+.checkbox-label:hover {
+  background-color: #f2f2f2;
+  border-radius: 4px;
+  padding: 0.2rem 0.4rem;
+}
+
+.checkbox-label input[type="checkbox"] {
+  transform: scale(1.2);
+}
+
+.checkbox-label span {
+  text-align: left;
+}
+
+
+.team-championships {
+  background-color: #f9f9f9;
+  border-left: 4px solid #3498db;
+  padding: 1rem;
+  margin-bottom: 2rem;
+  border-radius: 4px;
+}
+
+.team-championships h2 {
+  margin-bottom: 0.5rem;
+  font-size: 1.2rem;
+  color: #2c3e50;
+}
+
+.team-championships ul {
+  list-style: none;
+  padding-left: 1rem;
+  margin: 0;
+}
+
+.team-championships li {
+  margin-bottom: 0.3rem;
+  font-size: 0.95rem;
+}
+
+
+.championships-filter {
+  max-height: 200px;
+  overflow-y: auto;
+  padding-right: 0.5rem;
+}
+
+/* Style pour la scrollbar */
+.championships-filter::-webkit-scrollbar {
+  width: 6px;
+}
+
+.championships-filter::-webkit-scrollbar-track {
+  background: #f1f1f1;
+  border-radius: 3px;
+}
+
+.championships-filter::-webkit-scrollbar-thumb {
+  background: #888;
+  border-radius: 3px;
+}
+
+.championships-filter::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+.team-info-centered {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.team-info-centered img.team-logo-large {
+  display: block;
+  margin: 0 auto;
+  max-width: 200px;
+}
+
+
+
+.team-page-wrapper {
+  background-color: #f5f8fa; /* ✅ Couleur douce cohérente avec l’app */
+  min-height: 100vh;
+  padding: 3rem 1rem;
+}
+.team-details {
+  background-color: #fff;
+  padding: 2rem;
+  max-width: 1000px;
+  margin: auto;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
+  border-radius: 12px;
+}
+
+hr {
+  border: none;
+  border-top: 2px solid #3498db; /* couleur bleue, tu peux la changer */
+  margin: 2rem 0;
+}
+
+.add-championship-form {
+  margin-top: 1rem;
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+}
+
+.add-championship-form select {
+  padding: 0.5rem;
+  border-radius: 4px;
+  border: 1px solid #ddd;
+  flex-grow: 1;
+}
+
+.add-championship-form button {
+  padding: 0.5rem 1rem;
+  background-color: #3498db;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.add-championship-form button:hover {
+  background-color: #2980b9;
+}
+
+.add-button {
+  margin-top: 1rem;
+  padding: 0.5rem 1rem;
+  background-color: #2ecc71;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.add-button:hover {
+  background-color: #27ae60;
+}
+
+
+@media (max-width: 768px) {
+  h1 {
+    font-size: 2rem;
+  }
+
+  h2 {
+    font-size: 1.3rem;
+  }
+
+  .team-details {
+    padding: 1.5rem;
+  }
+
+  .add-championship-form {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 10px;
+  }
+
+  .add-championship-form select,
+  .add-championship-form button {
+    width: 100%;
+  }
+
+  .add-button {
+    width: 100%;
+    font-size: 0.95rem;
+  }
+
+  .team-championships {
+    text-align: center;
+  }
+
+  .team-championships ul {
+    padding-left: 0;
+  }
+
+  .checkbox-label {
+    font-size: 0.9rem;
+    white-space: normal; /* Autorise le retour à la ligne si besoin */
+  }
+}
+
+@media (max-width: 480px) {
+  h1 {
+    font-size: 1.7rem;
+  }
+
+  .team-details {
+    padding: 1rem;
+  }
+
+  .team-logo-large {
+    width: 120px;
+    height: 120px;
+  }
+
+  .team-info-centered p {
+    font-size: 0.95rem;
+  }
+
+  .filter-title,
+  .filter-header {
+    font-size: 0.9rem;
+  }
+
+  .toggle-filters {
+    font-size: 0.9rem;
+  }
+
+  .team-sidebar,
+  .team-main {
+    padding: 0.5rem;
+  }
+
+  .match-list {
+    padding: 0;
+  }
+
+  .team-page-wrapper {
+    padding: 2rem 0.5rem;
+  }
+
+  .add-button,
+  .add-championship-form button {
+    font-size: 0.85rem;
+    padding: 0.5rem;
+  }
+}
+
+@media (max-width: 768px) {
+  .team-page {
+    flex-direction: column;
+  }
+
+  .team-sidebar {
+    width: 100%;
+    order: 1;
+    margin-top: 1.5rem;
+    padding: 1rem 0.5rem;
+  }
+
+  .team-main {
+    order: 2;
+    width: 100%;
+    padding: 0;
+  }
+
+  .filter-category {
+    margin-bottom: 1rem;
+  }
+
+  .filter-header {
+    font-size: 0.95rem;
+  }
+
+  .checkbox-label {
+    font-size: 0.9rem;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+  }
+
+  .match-list {
+    padding: 0.5rem;
+  }
+
+  .match-filters {
+    display: flex;
+    flex-direction: column;
+    gap: 0.8rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .team-sidebar {
+    padding: 0.5rem;
+  }
+
+  .filter-header,
+  .filter-title {
+    font-size: 0.85rem;
+  }
+
+  .checkbox-label {
+    font-size: 0.85rem;
+  }
+
+  .match-list {
+    gap: 1rem;
+  }
+
+  .toggle-filters {
+    font-size: 0.85rem;
+    padding: 0.3rem 0;
+  }
+}
