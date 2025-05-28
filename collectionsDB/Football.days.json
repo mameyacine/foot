@@ -1,0 +1,250 @@
+[{
+  "_id": {
+    "$oid": "6835fdb58c5c281c6566f589"
+  },
+  "number": "1",
+  "idChampionship": {
+    "$oid": "6835fc92e4cbdd485a7ed255"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835fdb98c5c281c6566f58c"
+  },
+  "number": "2",
+  "idChampionship": {
+    "$oid": "6835fc92e4cbdd485a7ed255"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835fdbe8c5c281c6566f58f"
+  },
+  "number": "3",
+  "idChampionship": {
+    "$oid": "6835fc92e4cbdd485a7ed255"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835fdc48c5c281c6566f592"
+  },
+  "number": "4",
+  "idChampionship": {
+    "$oid": "6835fc92e4cbdd485a7ed255"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835fdc98c5c281c6566f595"
+  },
+  "number": "5",
+  "idChampionship": {
+    "$oid": "6835fc92e4cbdd485a7ed255"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835fdcf8c5c281c6566f598"
+  },
+  "number": "1",
+  "idChampionship": {
+    "$oid": "6835fc92e4cbdd485a7ed256"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835fdd38c5c281c6566f59b"
+  },
+  "number": "2",
+  "idChampionship": {
+    "$oid": "6835fc92e4cbdd485a7ed256"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835fdd88c5c281c6566f59e"
+  },
+  "number": "3",
+  "idChampionship": {
+    "$oid": "6835fc92e4cbdd485a7ed256"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835fddd8c5c281c6566f5a1"
+  },
+  "number": "4",
+  "idChampionship": {
+    "$oid": "6835fc92e4cbdd485a7ed256"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835fde38c5c281c6566f5a4"
+  },
+  "number": "5",
+  "idChampionship": {
+    "$oid": "6835fc92e4cbdd485a7ed256"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835fdeb8c5c281c6566f5bb"
+  },
+  "number": "1",
+  "idChampionship": {
+    "$oid": "6835fc92e4cbdd485a7ed257"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835fdf08c5c281c6566f5be"
+  },
+  "number": "2",
+  "idChampionship": {
+    "$oid": "6835fc92e4cbdd485a7ed257"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835fdf58c5c281c6566f5c1"
+  },
+  "number": "3",
+  "idChampionship": {
+    "$oid": "6835fc92e4cbdd485a7ed257"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835fdf98c5c281c6566f5c4"
+  },
+  "number": "4",
+  "idChampionship": {
+    "$oid": "6835fc92e4cbdd485a7ed257"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835fdfe8c5c281c6566f5c7"
+  },
+  "number": "5",
+  "idChampionship": {
+    "$oid": "6835fc92e4cbdd485a7ed257"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835fe028c5c281c6566f5ca"
+  },
+  "number": "1",
+  "idChampionship": {
+    "$oid": "6835fc92e4cbdd485a7ed258"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835fe078c5c281c6566f5cd"
+  },
+  "number": "2",
+  "idChampionship": {
+    "$oid": "6835fc92e4cbdd485a7ed258"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835fe0a8c5c281c6566f5d0"
+  },
+  "number": "3",
+  "idChampionship": {
+    "$oid": "6835fc92e4cbdd485a7ed258"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835fe0f8c5c281c6566f5d3"
+  },
+  "number": "4",
+  "idChampionship": {
+    "$oid": "6835fc92e4cbdd485a7ed258"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835fe148c5c281c6566f5d6"
+  },
+  "number": "5",
+  "idChampionship": {
+    "$oid": "6835fc92e4cbdd485a7ed258"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835fe1d8c5c281c6566f5ee"
+  },
+  "number": "1",
+  "idChampionship": {
+    "$oid": "6835fc92e4cbdd485a7ed259"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835fe2a8c5c281c6566f605"
+  },
+  "number": "2",
+  "idChampionship": {
+    "$oid": "6835fc92e4cbdd485a7ed259"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835fe2f8c5c281c6566f608"
+  },
+  "number": "3",
+  "idChampionship": {
+    "$oid": "6835fc92e4cbdd485a7ed259"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835fe338c5c281c6566f60b"
+  },
+  "number": "4",
+  "idChampionship": {
+    "$oid": "6835fc92e4cbdd485a7ed259"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835fe398c5c281c6566f622"
+  },
+  "number": "5",
+  "idChampionship": {
+    "$oid": "6835fc92e4cbdd485a7ed259"
+  },
+  "__v": 0
+}]

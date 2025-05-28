@@ -1,0 +1,300 @@
+[{
+  "_id": {
+    "$oid": "6835fc9e8c5c281c6566f309"
+  },
+  "teamId": {
+    "$oid": "6835f90ae4cbdd485a7ed23c"
+  },
+  "championshipId": {
+    "$oid": "6835fc92e4cbdd485a7ed255"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835fcaa8c5c281c6566f31e"
+  },
+  "teamId": {
+    "$oid": "6835f90ae4cbdd485a7ed23d"
+  },
+  "championshipId": {
+    "$oid": "6835fc92e4cbdd485a7ed255"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835fcb28c5c281c6566f342"
+  },
+  "teamId": {
+    "$oid": "6835f90ae4cbdd485a7ed23e"
+  },
+  "championshipId": {
+    "$oid": "6835fc92e4cbdd485a7ed255"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835fcbe8c5c281c6566f368"
+  },
+  "teamId": {
+    "$oid": "6835f90ae4cbdd485a7ed23f"
+  },
+  "championshipId": {
+    "$oid": "6835fc92e4cbdd485a7ed255"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835fcc68c5c281c6566f38c"
+  },
+  "teamId": {
+    "$oid": "6835f90ae4cbdd485a7ed240"
+  },
+  "championshipId": {
+    "$oid": "6835fc92e4cbdd485a7ed255"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835fccf8c5c281c6566f3a2"
+  },
+  "teamId": {
+    "$oid": "6835fa69e4cbdd485a7ed241"
+  },
+  "championshipId": {
+    "$oid": "6835fc92e4cbdd485a7ed258"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835fcd78c5c281c6566f3b9"
+  },
+  "teamId": {
+    "$oid": "6835fa69e4cbdd485a7ed242"
+  },
+  "championshipId": {
+    "$oid": "6835fc92e4cbdd485a7ed258"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835fcde8c5c281c6566f3cf"
+  },
+  "teamId": {
+    "$oid": "6835fa69e4cbdd485a7ed243"
+  },
+  "championshipId": {
+    "$oid": "6835fc92e4cbdd485a7ed258"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835fce98c5c281c6566f3f4"
+  },
+  "teamId": {
+    "$oid": "6835fa69e4cbdd485a7ed244"
+  },
+  "championshipId": {
+    "$oid": "6835fc92e4cbdd485a7ed258"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835fcf18c5c281c6566f40a"
+  },
+  "teamId": {
+    "$oid": "6835fa69e4cbdd485a7ed245"
+  },
+  "championshipId": {
+    "$oid": "6835fc92e4cbdd485a7ed258"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835fcf98c5c281c6566f416"
+  },
+  "teamId": {
+    "$oid": "6835fafde4cbdd485a7ed246"
+  },
+  "championshipId": {
+    "$oid": "6835fc92e4cbdd485a7ed259"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835fd028c5c281c6566f43a"
+  },
+  "teamId": {
+    "$oid": "6835fafde4cbdd485a7ed247"
+  },
+  "championshipId": {
+    "$oid": "6835fc92e4cbdd485a7ed259"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835fd0f8c5c281c6566f45f"
+  },
+  "teamId": {
+    "$oid": "6835fafde4cbdd485a7ed248"
+  },
+  "championshipId": {
+    "$oid": "6835fc92e4cbdd485a7ed259"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835fd198c5c281c6566f475"
+  },
+  "teamId": {
+    "$oid": "6835fafde4cbdd485a7ed249"
+  },
+  "championshipId": {
+    "$oid": "6835fc92e4cbdd485a7ed259"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835fd238c5c281c6566f48b"
+  },
+  "teamId": {
+    "$oid": "6835fafde4cbdd485a7ed24a"
+  },
+  "championshipId": {
+    "$oid": "6835fc92e4cbdd485a7ed259"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835fd298c5c281c6566f498"
+  },
+  "teamId": {
+    "$oid": "6835fb9de4cbdd485a7ed24b"
+  },
+  "championshipId": {
+    "$oid": "6835fc92e4cbdd485a7ed256"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835fd338c5c281c6566f4a3"
+  },
+  "teamId": {
+    "$oid": "6835fc33e4cbdd485a7ed254"
+  },
+  "championshipId": {
+    "$oid": "6835fc92e4cbdd485a7ed257"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835fd3a8c5c281c6566f4ae"
+  },
+  "teamId": {
+    "$oid": "6835fb9de4cbdd485a7ed24f"
+  },
+  "championshipId": {
+    "$oid": "6835fc92e4cbdd485a7ed256"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835fd428c5c281c6566f4b9"
+  },
+  "teamId": {
+    "$oid": "6835fc33e4cbdd485a7ed253"
+  },
+  "championshipId": {
+    "$oid": "6835fc92e4cbdd485a7ed257"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835fd4b8c5c281c6566f4ce"
+  },
+  "teamId": {
+    "$oid": "6835fc33e4cbdd485a7ed252"
+  },
+  "championshipId": {
+    "$oid": "6835fc92e4cbdd485a7ed257"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835fd578c5c281c6566f4e4"
+  },
+  "teamId": {
+    "$oid": "6835fc33e4cbdd485a7ed251"
+  },
+  "championshipId": {
+    "$oid": "6835fc92e4cbdd485a7ed257"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835fd5f8c5c281c6566f4fb"
+  },
+  "teamId": {
+    "$oid": "6835fc33e4cbdd485a7ed250"
+  },
+  "championshipId": {
+    "$oid": "6835fc92e4cbdd485a7ed257"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835fd708c5c281c6566f518"
+  },
+  "teamId": {
+    "$oid": "6835fb9de4cbdd485a7ed24c"
+  },
+  "championshipId": {
+    "$oid": "6835fc92e4cbdd485a7ed256"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835fd798c5c281c6566f52e"
+  },
+  "teamId": {
+    "$oid": "6835fb9de4cbdd485a7ed24d"
+  },
+  "championshipId": {
+    "$oid": "6835fc92e4cbdd485a7ed256"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835fd838c5c281c6566f544"
+  },
+  "teamId": {
+    "$oid": "6835fb9de4cbdd485a7ed24e"
+  },
+  "championshipId": {
+    "$oid": "6835fc92e4cbdd485a7ed256"
+  },
+  "__v": 0
+}]

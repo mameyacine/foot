@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "6835fc92e4cbdd485a7ed255"
+  },
+  "name": "Ligue 1 Uber Eats",
+  "startDate": {
+    "$date": "2024-08-10T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2025-05-25T00:00:00.000Z"
+  },
+  "wonPoint": 3,
+  "drawPoint": 1,
+  "lostPoint": 0,
+  "typeRanking": "standard"
+},
+{
+  "_id": {
+    "$oid": "6835fc92e4cbdd485a7ed256"
+  },
+  "name": "Premier League",
+  "startDate": {
+    "$date": "2024-08-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2025-05-18T00:00:00.000Z"
+  },
+  "wonPoint": 3,
+  "drawPoint": 1,
+  "lostPoint": 0,
+  "typeRanking": "standard"
+},
+{
+  "_id": {
+    "$oid": "6835fc92e4cbdd485a7ed257"
+  },
+  "name": "Serie A TIM",
+  "startDate": {
+    "$date": "2024-08-17T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2025-05-25T00:00:00.000Z"
+  },
+  "wonPoint": 3,
+  "drawPoint": 1,
+  "lostPoint": 0,
+  "typeRanking": "standard"
+},
+{
+  "_id": {
+    "$oid": "6835fc92e4cbdd485a7ed258"
+  },
+  "name": "La Liga EA Sports",
+  "startDate": {
+    "$date": "2024-08-16T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2025-05-24T00:00:00.000Z"
+  },
+  "wonPoint": 3,
+  "drawPoint": 1,
+  "lostPoint": 0,
+  "typeRanking": "standard"
+},
+{
+  "_id": {
+    "$oid": "6835fc92e4cbdd485a7ed259"
+  },
+  "name": "Brasileirão Série A",
+  "startDate": {
+    "$date": "2024-04-13T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2024-12-08T00:00:00.000Z"
+  },
+  "wonPoint": 3,
+  "drawPoint": 1,
+  "lostPoint": 0,
+  "typeRanking": "standard"
+}]

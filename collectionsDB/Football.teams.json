@@ -1,0 +1,398 @@
+[{
+  "_id": {
+    "$oid": "6835f90ae4cbdd485a7ed23c"
+  },
+  "name": "Paris Saint-Germain",
+  "creationDate": {
+    "$date": "1970-08-12T00:00:00.000Z"
+  },
+  "stade": "Parc des Princes",
+  "logo": "https://imgur.com/xQcAbbk",
+  "countryId": {
+    "$oid": "6835f6d4ea77a64fe1d8953d"
+  }
+},
+{
+  "_id": {
+    "$oid": "6835f90ae4cbdd485a7ed23d"
+  },
+  "name": "Olympique de Marseille",
+  "creationDate": {
+    "$date": {
+      "$numberLong": "-2219616000000"
+    }
+  },
+  "stade": "Vélodrome",
+  "logo": "https://imgur.com/eiSjTLo",
+  "countryId": {
+    "$oid": "6835f6d4ea77a64fe1d8953d"
+  }
+},
+{
+  "_id": {
+    "$oid": "6835f90ae4cbdd485a7ed23e"
+  },
+  "name": "Olympique Lyonnais",
+  "creationDate": {
+    "$date": {
+      "$numberLong": "-620611200000"
+    }
+  },
+  "stade": "Groupama Stadium",
+  "logo": "https://imgur.com/aoDi8Te",
+  "countryId": {
+    "$oid": "6835f6d4ea77a64fe1d8953d"
+  }
+},
+{
+  "_id": {
+    "$oid": "6835f90ae4cbdd485a7ed23f"
+  },
+  "name": "AS Monaco",
+  "creationDate": {
+    "$date": {
+      "$numberLong": "-1431388800000"
+    }
+  },
+  "stade": "Stade Louis-II",
+  "logo": "https://imgur.com/qmluQic",
+  "countryId": {
+    "$oid": "6835f6d4ea77a64fe1d8953d"
+  }
+},
+{
+  "_id": {
+    "$oid": "6835f90ae4cbdd485a7ed240"
+  },
+  "name": "RC Lens",
+  "creationDate": {
+    "$date": {
+      "$numberLong": "-2005430400000"
+    }
+  },
+  "stade": "Stade Bollaert-Delelis",
+  "logo": "https://imgur.com/DCcSTqF",
+  "countryId": {
+    "$oid": "6835f6d4ea77a64fe1d8953d"
+  }
+},
+{
+  "_id": {
+    "$oid": "6835fa69e4cbdd485a7ed241"
+  },
+  "name": "Real Madrid",
+  "creationDate": {
+    "$date": {
+      "$numberLong": "-2140387200000"
+    }
+  },
+  "stade": "Santiago Bernabéu",
+  "logo": "https://imgur.com/YRUY1PN",
+  "countryId": {
+    "$oid": "6835f6d4ea77a64fe1d8953f"
+  }
+},
+{
+  "_id": {
+    "$oid": "6835fa69e4cbdd485a7ed242"
+  },
+  "name": "FC Barcelone",
+  "creationDate": {
+    "$date": {
+      "$numberLong": "-2211840000000"
+    }
+  },
+  "stade": "Camp Nou",
+  "logo": "https://imgur.com/CrLLzPU",
+  "countryId": {
+    "$oid": "6835f6d4ea77a64fe1d8953f"
+  }
+},
+{
+  "_id": {
+    "$oid": "6835fa69e4cbdd485a7ed243"
+  },
+  "name": "Atlético Madrid",
+  "creationDate": {
+    "$date": {
+      "$numberLong": "-2104444800000"
+    }
+  },
+  "stade": "Metropolitano",
+  "logo": "https://imgur.com/ActQgFo",
+  "countryId": {
+    "$oid": "6835f6d4ea77a64fe1d8953f"
+  }
+},
+{
+  "_id": {
+    "$oid": "6835fa69e4cbdd485a7ed244"
+  },
+  "name": "Sevilla FC",
+  "creationDate": {
+    "$date": {
+      "$numberLong": "-2522448000000"
+    }
+  },
+  "stade": "Ramón Sánchez-Pizjuán",
+  "logo": "https://imgur.com/8hnb6LF",
+  "countryId": {
+    "$oid": "6835f6d4ea77a64fe1d8953f"
+  }
+},
+{
+  "_id": {
+    "$oid": "6835fa69e4cbdd485a7ed245"
+  },
+  "name": "Valencia CF",
+  "creationDate": {
+    "$date": {
+      "$numberLong": "-1602892800000"
+    }
+  },
+  "stade": "Mestalla",
+  "logo": "https://imgur.com/qjPLYlS",
+  "countryId": {
+    "$oid": "6835f6d4ea77a64fe1d8953f"
+  }
+},
+{
+  "_id": {
+    "$oid": "6835fafde4cbdd485a7ed246"
+  },
+  "name": "Flamengo",
+  "creationDate": {
+    "$date": {
+      "$numberLong": "-2339280000000"
+    }
+  },
+  "stade": "Maracanã",
+  "logo": "https://imgur.com/u9xzxd1",
+  "countryId": {
+    "$oid": "6835f6d4ea77a64fe1d8953e"
+  }
+},
+{
+  "_id": {
+    "$oid": "6835fafde4cbdd485a7ed247"
+  },
+  "name": "Palmeiras",
+  "creationDate": {
+    "$date": {
+      "$numberLong": "-1746748800000"
+    }
+  },
+  "stade": "Allianz Parque",
+  "logo": "https://imgur.com/V6gtGJt",
+  "countryId": {
+    "$oid": "6835f6d4ea77a64fe1d8953e"
+  }
+},
+{
+  "_id": {
+    "$oid": "6835fafde4cbdd485a7ed248"
+  },
+  "name": "São Paulo FC",
+  "creationDate": {
+    "$date": {
+      "$numberLong": "-1260230400000"
+    }
+  },
+  "stade": "Morumbi",
+  "logo": "https://imgur.com/36SLMkT",
+  "countryId": {
+    "$oid": "6835f6d4ea77a64fe1d8953e"
+  }
+},
+{
+  "_id": {
+    "$oid": "6835fafde4cbdd485a7ed249"
+  },
+  "name": "Corinthians",
+  "creationDate": {
+    "$date": {
+      "$numberLong": "-1872460800000"
+    }
+  },
+  "stade": "Neo Química Arena",
+  "logo": "https://imgur.com/p4f4L0j",
+  "countryId": {
+    "$oid": "6835f6d4ea77a64fe1d8953e"
+  }
+},
+{
+  "_id": {
+    "$oid": "6835fafde4cbdd485a7ed24a"
+  },
+  "name": "Grêmio",
+  "creationDate": {
+    "$date": {
+      "$numberLong": "-2092176000000"
+    }
+  },
+  "stade": "Arena do Grêmio",
+  "logo": "https://imgur.com/F09F3AK",
+  "countryId": {
+    "$oid": "6835f6d4ea77a64fe1d8953e"
+  }
+},
+{
+  "_id": {
+    "$oid": "6835fb9de4cbdd485a7ed24b"
+  },
+  "name": "Manchester United",
+  "creationDate": {
+    "$date": {
+      "$numberLong": "-2897769600000"
+    }
+  },
+  "stade": "Old Trafford",
+  "logo": "https://imgur.com/cnjiq2M",
+  "countryId": {
+    "$oid": "6835f6d4ea77a64fe1d89540"
+  }
+},
+{
+  "_id": {
+    "$oid": "6835fb9de4cbdd485a7ed24c"
+  },
+  "name": "Liverpool",
+  "creationDate": {
+    "$date": {
+      "$numberLong": "-2448144000000"
+    }
+  },
+  "stade": "Anfield",
+  "logo": "https://imgur.com/9PEjuXH",
+  "countryId": {
+    "$oid": "6835f6d4ea77a64fe1d89540"
+  }
+},
+{
+  "_id": {
+    "$oid": "6835fb9de4cbdd485a7ed24d"
+  },
+  "name": "Chelsea",
+  "creationDate": {
+    "$date": {
+      "$numberLong": "-2045347200000"
+    }
+  },
+  "stade": "Stamford Bridge",
+  "logo": "https://imgur.com/bhRXLKQ",
+  "countryId": {
+    "$oid": "6835f6d4ea77a64fe1d89540"
+  }
+},
+{
+  "_id": {
+    "$oid": "6835fb9de4cbdd485a7ed24e"
+  },
+  "name": "Arsenal",
+  "creationDate": {
+    "$date": {
+      "$numberLong": "-2627164800000"
+    }
+  },
+  "stade": "Emirates Stadium",
+  "logo": "https://imgur.com/SgIN9U3",
+  "countryId": {
+    "$oid": "6835f6d4ea77a64fe1d89540"
+  }
+},
+{
+  "_id": {
+    "$oid": "6835fb9de4cbdd485a7ed24f"
+  },
+  "name": "Manchester City",
+  "creationDate": {
+    "$date": {
+      "$numberLong": "-2840140800000"
+    }
+  },
+  "stade": "Etihad Stadium",
+  "logo": "https://imgur.com/dPPLA3b",
+  "countryId": {
+    "$oid": "6835f6d4ea77a64fe1d89540"
+  }
+},
+{
+  "_id": {
+    "$oid": "6835fc33e4cbdd485a7ed250"
+  },
+  "name": "Juventus",
+  "creationDate": {
+    "$date": {
+      "$numberLong": "-2277331200000"
+    }
+  },
+  "stade": "Allianz Stadium",
+  "logo": "https://imgur.com/0FMpfWG",
+  "countryId": {
+    "$oid": "6835f6d4ea77a64fe1d89541"
+  }
+},
+{
+  "_id": {
+    "$oid": "6835fc33e4cbdd485a7ed251"
+  },
+  "name": "AC Milan",
+  "creationDate": {
+    "$date": {
+      "$numberLong": "-2210371200000"
+    }
+  },
+  "stade": "San Siro",
+  "logo": "https://imgur.com/kBfCsM3",
+  "countryId": {
+    "$oid": "6835f6d4ea77a64fe1d89541"
+  }
+},
+{
+  "_id": {
+    "$oid": "6835fc33e4cbdd485a7ed252"
+  },
+  "name": "Inter Milan",
+  "creationDate": {
+    "$date": {
+      "$numberLong": "-1950739200000"
+    }
+  },
+  "stade": "San Siro",
+  "logo": "https://imgur.com/fFsk4wk",
+  "countryId": {
+    "$oid": "6835f6d4ea77a64fe1d89541"
+  }
+},
+{
+  "_id": {
+    "$oid": "6835fc33e4cbdd485a7ed253"
+  },
+  "name": "AS Roma",
+  "creationDate": {
+    "$date": {
+      "$numberLong": "-1339545600000"
+    }
+  },
+  "stade": "Stade Olympique",
+  "logo": "https://imgur.com/zMwAbuf",
+  "countryId": {
+    "$oid": "6835f6d4ea77a64fe1d89541"
+  }
+},
+{
+  "_id": {
+    "$oid": "6835fc33e4cbdd485a7ed254"
+  },
+  "name": "Napoli",
+  "creationDate": {
+    "$date": {
+      "$numberLong": "-1370217600000"
+    }
+  },
+  "stade": "Diego Armando Maradona",
+  "logo": "https://imgur.com/IWhthNv",
+  "countryId": {
+    "$oid": "6835f6d4ea77a64fe1d89541"
+  }
+}]

@@ -1,0 +1,204 @@
+[{
+  "_id": {
+    "$oid": "6835fe458c5c281c6566f646"
+  },
+  "team1Point": 2,
+  "team2Point": 0,
+  "idTeam1": {
+    "$oid": "6835f90ae4cbdd485a7ed23c"
+  },
+  "idTeam2": {
+    "$oid": "6835f90ae4cbdd485a7ed23d"
+  },
+  "idDay": {
+    "$oid": "6835fdb58c5c281c6566f589"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835fe588c5c281c6566f651"
+  },
+  "team1Point": 0,
+  "team2Point": 0,
+  "idTeam1": {
+    "$oid": "6835f90ae4cbdd485a7ed23e"
+  },
+  "idTeam2": {
+    "$oid": "6835f90ae4cbdd485a7ed23f"
+  },
+  "idDay": {
+    "$oid": "6835fdb58c5c281c6566f589"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835fe658c5c281c6566f65c"
+  },
+  "team1Point": 0,
+  "team2Point": 1,
+  "idTeam1": {
+    "$oid": "6835f90ae4cbdd485a7ed240"
+  },
+  "idTeam2": {
+    "$oid": "6835f90ae4cbdd485a7ed23f"
+  },
+  "idDay": {
+    "$oid": "6835fdb98c5c281c6566f58c"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835fe738c5c281c6566f66b"
+  },
+  "team1Point": 2,
+  "team2Point": 1,
+  "idTeam1": {
+    "$oid": "6835f90ae4cbdd485a7ed23d"
+  },
+  "idTeam2": {
+    "$oid": "6835f90ae4cbdd485a7ed23e"
+  },
+  "idDay": {
+    "$oid": "6835fdb98c5c281c6566f58c"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835fea58c5c281c6566f67c"
+  },
+  "team1Point": 3,
+  "team2Point": 2,
+  "idTeam1": {
+    "$oid": "6835fb9de4cbdd485a7ed24b"
+  },
+  "idTeam2": {
+    "$oid": "6835fb9de4cbdd485a7ed24f"
+  },
+  "idDay": {
+    "$oid": "6835fdcf8c5c281c6566f598"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835feaf8c5c281c6566f687"
+  },
+  "team1Point": 3,
+  "team2Point": 0,
+  "idTeam1": {
+    "$oid": "6835fb9de4cbdd485a7ed24d"
+  },
+  "idTeam2": {
+    "$oid": "6835fb9de4cbdd485a7ed24e"
+  },
+  "idDay": {
+    "$oid": "6835fdd38c5c281c6566f59b"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835febd8c5c281c6566f692"
+  },
+  "team1Point": 4,
+  "team2Point": 3,
+  "idTeam1": {
+    "$oid": "6835fb9de4cbdd485a7ed24e"
+  },
+  "idTeam2": {
+    "$oid": "6835fb9de4cbdd485a7ed24c"
+  },
+  "idDay": {
+    "$oid": "6835fdd38c5c281c6566f59b"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835fedd8c5c281c6566f69d"
+  },
+  "team1Point": 4,
+  "team2Point": 2,
+  "idTeam1": {
+    "$oid": "6835fb9de4cbdd485a7ed24d"
+  },
+  "idTeam2": {
+    "$oid": "6835fb9de4cbdd485a7ed24c"
+  },
+  "idDay": {
+    "$oid": "6835fdcf8c5c281c6566f598"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835fee58c5c281c6566f6af"
+  },
+  "team1Point": 0,
+  "team2Point": 0,
+  "idTeam1": {
+    "$oid": "6835fc33e4cbdd485a7ed254"
+  },
+  "idTeam2": {
+    "$oid": "6835fc33e4cbdd485a7ed253"
+  },
+  "idDay": {
+    "$oid": "6835fdeb8c5c281c6566f5bb"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835feeb8c5c281c6566f6ba"
+  },
+  "team1Point": 0,
+  "team2Point": 0,
+  "idTeam1": {
+    "$oid": "6835fc33e4cbdd485a7ed252"
+  },
+  "idTeam2": {
+    "$oid": "6835fc33e4cbdd485a7ed251"
+  },
+  "idDay": {
+    "$oid": "6835fdeb8c5c281c6566f5bb"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835fef18c5c281c6566f6c5"
+  },
+  "team1Point": 2,
+  "team2Point": 0,
+  "idTeam1": {
+    "$oid": "6835fc33e4cbdd485a7ed250"
+  },
+  "idTeam2": {
+    "$oid": "6835fc33e4cbdd485a7ed253"
+  },
+  "idDay": {
+    "$oid": "6835fdf08c5c281c6566f5be"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6835fefb8c5c281c6566f6d0"
+  },
+  "team1Point": 3,
+  "team2Point": 2,
+  "idTeam1": {
+    "$oid": "6835fc33e4cbdd485a7ed252"
+  },
+  "idTeam2": {
+    "$oid": "6835fc33e4cbdd485a7ed254"
+  },
+  "idDay": {
+    "$oid": "6835fdf08c5c281c6566f5be"
+  },
+  "__v": 0
+}]
